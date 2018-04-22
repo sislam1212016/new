@@ -20,5 +20,4 @@ public class Netflix extends CommonAPIChrome{
         chromeDriver.findElement(By.name("password")).sendKeys("1234abcd");
         chromeDriver.findElement(By.xpath("//button[@class='btn login-button btn-submit btn-small']")).click();
     }
-
 }

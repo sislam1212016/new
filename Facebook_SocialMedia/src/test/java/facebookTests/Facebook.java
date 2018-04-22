@@ -21,4 +21,9 @@ public class Facebook extends CommonAPIChrome{
         chromeDriver.findElement(By.xpath("//input[@id='pass']")).sendKeys("1234abcd");
         chromeDriver.findElement(By.xpath("//input[@type='submit']")).click();
     }
+
+    @Test
+    public void createFacebookAccount(){
+        chromeDriver.get(url);
+    }
 }
