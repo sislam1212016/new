@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon_ECommerce/Amazon_ECommerce.iml" filepath="$PROJECT_DIR$/Amazon_ECommerce/Amazon_ECommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomationTeam6.iml" filepath="$PROJECT_DIR$/AutomationTeam6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestBuy_Retail/BestBuy_Retail.iml" filepath="$PROJECT_DIR$/BestBuy_Retail/BestBuy_Retail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chase_Financial/Chase_Financial.iml" filepath="$PROJECT_DIR$/Chase_Financial/Chase_Financial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facebook_SocialMedia/Facebook_SocialMedia.iml" filepath="$PROJECT_DIR$/Facebook_SocialMedia/Facebook_SocialMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netflix_Entertainment/Netflix_Entertainment.iml" filepath="$PROJECT_DIR$/Netflix_Entertainment/Netflix_Entertainment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitedHealthCare_HealthCare/UnitedHealthCare_HealthCare.iml" filepath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/UnitedHealthCare_HealthCare.iml" />
+    </modules>
+  </component>
+</project>

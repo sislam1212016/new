@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Amazon_ECommerce" />
+        <module name="BestBuy_Retail" />
+        <module name="Chase_Financial" />
+        <module name="Facebook_SocialMedia" />
+        <module name="Generic" />
+        <module name="Netflix_Entertainment" />
+        <module name="UnitedHealthCare_HealthCare" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon_ECommerce" target="1.5" />
+      <module name="AutomationTeam6" target="1.5" />
+      <module name="BestBuy_Retail" target="1.5" />
+      <module name="Chase_Financial" target="1.5" />
+      <module name="Facebook_SocialMedia" target="1.5" />
+      <module name="Generic" target="1.5" />
+      <module name="Netflix_Entertainment" target="1.5" />
+      <module name="UnitedHealthCare_HealthCare" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
