@@ -89,5 +89,21 @@ public class Amazon extends CommonAPIChrome {
         chromeDriver.findElement(By.id("twotabsearchtextbox")).clear();
         chromeDriver.findElement(By.id("twotabsearchtextbox")).sendKeys("Cuff Links", Keys.ENTER);
     }
-    
+
+    @Test //test11
+    public void amazonBrowserClose(){
+        chromeDriver.get(url);
+        chromeDriver.close();
+    }
+
+    @Test //test12
+    public void amzonBrowserTitle(){
+        chromeDriver.get(url);
+        System.out.println(chromeDriver.getCurrentUrl());
+        System.out.println(chromeDriver.getTitle());
+        chromeDriver.close();
+    }
+
+
+
 }
