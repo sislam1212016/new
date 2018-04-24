@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddf1902f-739f-4d2f-b513-cfe9875c120e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/driver/driver_Mac/chromedriver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/driver/driver_Mac/geckodriver" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Amazon_ECommerce/Amazon_ECommerce.iml" afterPath="$PROJECT_DIR$/Amazon_ECommerce/Amazon_ECommerce.iml" />
       <change beforePath="$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java" afterPath="$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java" />
-      <change beforePath="$PROJECT_DIR$/Amazon_ECommerce/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Amazon_ECommerce/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/BestBuy_Retail/BestBuy_Retail.iml" afterPath="$PROJECT_DIR$/BestBuy_Retail/BestBuy_Retail.iml" />
-      <change beforePath="$PROJECT_DIR$/BestBuy_Retail/target/test-classes/bestbuyTests/BestBuy.class" afterPath="$PROJECT_DIR$/BestBuy_Retail/target/test-classes/bestbuyTests/BestBuy.class" />
-      <change beforePath="$PROJECT_DIR$/Chase_Financial/Chase_Financial.iml" afterPath="$PROJECT_DIR$/Chase_Financial/Chase_Financial.iml" />
-      <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/Facebook_SocialMedia.iml" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/Facebook_SocialMedia.iml" />
-      <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/Amazon_ECommerce/target/test-classes/amazonTests/Amazon.class" afterPath="$PROJECT_DIR$/Amazon_ECommerce/target/test-classes/amazonTests/Amazon.class" />
+      <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" />
       <change beforePath="$PROJECT_DIR$/Facebook_SocialMedia/target/test-classes/facebookTests/Facebook.class" afterPath="$PROJECT_DIR$/Facebook_SocialMedia/target/test-classes/facebookTests/Facebook.class" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/Netflix_Entertainment/Netflix_Entertainment.iml" afterPath="$PROJECT_DIR$/Netflix_Entertainment/Netflix_Entertainment.iml" />
-      <change beforePath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/UnitedHealthCare_HealthCare.iml" afterPath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/UnitedHealthCare_HealthCare.iml" />
-      <change beforePath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/target/test-classes/unitedHealthCareTests/UnitedHealthCare.class" afterPath="$PROJECT_DIR$/UnitedHealthCare_HealthCare/target/test-classes/unitedHealthCareTests/UnitedHealthCare.class" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIChrome.class" afterPath="$PROJECT_DIR$/Generic/target/classes/commonAPI/CommonAPIChrome.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,12 +29,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Amazon.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Amazon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="91" column="4" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="22" column="97" lean-forward="false" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonAPIChrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="128" lean-forward="false" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonAPIFirefox.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIFirefox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Facebook.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="60" column="76" lean-forward="false" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1232#1233#0" expanded="true" />
+                <element signature="e#1269#1270#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnitedHealthCare.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="115" lean-forward="false" selection-start-line="18" selection-start-column="115" selection-end-line="18" selection-end-column="115" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestBuy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chase_Financial/src/test/java/chaseTests/Chase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,17 +153,17 @@
         <option value="$PROJECT_DIR$/Facebook_SocialMedia/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon_ECommerce/pom.xml" />
         <option value="$PROJECT_DIR$/Chase_Financial/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" />
         <option value="$PROJECT_DIR$/UnitedHealthCare_HealthCare/pom.xml" />
         <option value="$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java" />
         <option value="$PROJECT_DIR$/BestBuy_Retail/pom.xml" />
         <option value="$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java" />
         <option value="$PROJECT_DIR$/Chase_Financial/src/test/java/chaseTests/Chase.java" />
         <option value="$PROJECT_DIR$/Netflix_Entertainment/src/test/java/netflixTests/Netflix.java" />
-        <option value="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java" />
+        <option value="$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java" />
       </list>
     </option>
   </component>
@@ -103,14 +176,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="facebook" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="107" />
+    <option name="y" value="40" />
+    <option name="width" value="1439" />
+    <option name="height" value="959" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,8 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +254,17 @@
             <path>
               <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+              <item name="driver_Mac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
               <item name="Facebook_SocialMedia" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -207,21 +297,98 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="facebookTests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commonAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="Netflix_Entertainment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitedHealthCare_HealthCare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitedHealthCare_HealthCare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitedHealthCare_HealthCare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitedHealthCare_HealthCare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationTeam6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationTeam6" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitedHealthCare_HealthCare" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unitedHealthCareTests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver/driver_Mac" />
       <recent name="C:\Users\moham\IdeaProjects\AutomationTeam6\driver" />
     </key>
   </component>
@@ -237,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems">
+  <component name="RunManager" selected="TestNG.Facebook.findGroups">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -286,7 +453,7 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="Amazon.searchForItemsAndGoBack" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Amazon.amazonLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="amazonTests.*" />
@@ -299,103 +466,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="amazonTests" />
       <option name="MAIN_CLASS_NAME" value="amazonTests.Amazon" />
-      <option name="METHOD_NAME" value="searchForItemsAndGoBack" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Amazon.searchForItemsGoBackAndSearchMore" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="amazonTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Amazon_ECommerce" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="amazonTests" />
-      <option name="MAIN_CLASS_NAME" value="amazonTests.Amazon" />
-      <option name="METHOD_NAME" value="searchForItemsGoBackAndSearchMore" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Amazon.searchGoBackGoForward" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="amazonTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Amazon_ECommerce" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="amazonTests" />
-      <option name="MAIN_CLASS_NAME" value="amazonTests.Amazon" />
-      <option name="METHOD_NAME" value="searchGoBackGoForward" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Amazon.searchGoBackGoForwardClearSearch" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="amazonTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Amazon_ECommerce" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="amazonTests" />
-      <option name="MAIN_CLASS_NAME" value="amazonTests.Amazon" />
-      <option name="METHOD_NAME" value="searchGoBackGoForwardClearSearch" />
+      <option name="METHOD_NAME" value="amazonLogin" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -428,6 +499,102 @@
       <option name="PACKAGE_NAME" value="amazonTests" />
       <option name="MAIN_CLASS_NAME" value="amazonTests.Amazon" />
       <option name="METHOD_NAME" value="searchGoBackGoForwardClearSearchAndSearchForMoreItems" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Facebook" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="facebookTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Facebook_SocialMedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="facebookTests" />
+      <option name="MAIN_CLASS_NAME" value="facebookTests.Facebook" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Facebook.facebookLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="facebookTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Facebook_SocialMedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="facebookTests" />
+      <option name="MAIN_CLASS_NAME" value="facebookTests.Facebook" />
+      <option name="METHOD_NAME" value="facebookLogin" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Facebook.findGroups" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="facebookTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Facebook_SocialMedia" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="facebookTests" />
+      <option name="MAIN_CLASS_NAME" value="facebookTests.Facebook" />
+      <option name="METHOD_NAME" value="findGroups" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -480,19 +647,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.Amazon.searchForItemsGoBackAndSearchMore" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.Amazon.searchForItemsAndGoBack" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForward" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearch" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.Amazon.amazonLogin" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.Facebook.facebookLogin" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.Facebook" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.Facebook.findGroups" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearch" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForward" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.Amazon.searchForItemsAndGoBack" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.Amazon.searchForItemsGoBackAndSearchMore" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.Facebook.findGroups" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.Facebook.facebookLogin" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Facebook" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.Amazon.amazonLogin" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" />
       </list>
     </recent_temporary>
   </component>
@@ -513,56 +680,54 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Amazon_searchForItems - 2018.04.22 at 21h 50m 48s.xml">
-      <configuration name="Amazon.searchForItems" configurationId="TestNG" />
+    <history-entry file="Facebook - 2018.04.24 at 10h 42m 57s.xml">
+      <configuration name="Facebook" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Amazon_searchForItems - 2018.04.22 at 21h 52m 28s.xml">
-      <configuration name="Amazon.searchForItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchForItemsAndGoBack - 2018.04.22 at 22h 03m 12s.xml">
-      <configuration name="Amazon.searchForItemsAndGoBack" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchForItemsGoBackAndSearchMore - 2018.04.22 at 22h 02m 19s.xml">
-      <configuration name="Amazon.searchForItemsGoBackAndSearchMore" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchGoBackGoForward - 2018.04.22 at 22h 09m 36s.xml">
-      <configuration name="Amazon.searchGoBackGoForward" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchGoBackGoForwardClearSearch - 2018.04.22 at 22h 12m 57s.xml">
-      <configuration name="Amazon.searchGoBackGoForwardClearSearch" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchGoBackGoForwardClearSearchAndSearchForMoreItems - 2018.04.22 at 22h 15m 52s.xml">
-      <configuration name="Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Amazon_searchGoBackGoForwardClearSearchAndSearchForMoreItems - 2018.04.22 at 22h 17m 21s.xml">
-      <configuration name="Amazon.searchGoBackGoForwardClearSearchAndSearchForMoreItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Facebook_facebookLogin - 2018.04.22 at 18h 36m 04s.xml">
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 08h 32m 05s.xml">
       <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Facebook_facebookLogin - 2018.04.22 at 18h 49m 27s.xml">
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 08h 36m 46s.xml">
       <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 10h 12m 39s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 10h 21m 25s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 10h 36m 06s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 10h 38m 21s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 10h 51m 31s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_facebookLogin - 2018.04.24 at 18h 51m 55s.xml">
+      <configuration name="Facebook.facebookLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Facebook_findGroups - 2018.04.24 at 19h 07m 59s.xml">
+      <configuration name="Facebook.findGroups" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="107" y="40" width="1439" height="959" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15175375" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331425" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -570,11 +735,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -587,12 +753,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIFirefox.java">
+    <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -601,14 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -625,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,31 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="115" lean-forward="false" selection-start-line="18" selection-start-column="115" selection-end-line="18" selection-end-column="115" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-            <element signature="e#314#315#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#266#267#0" expanded="false" />
-            <element signature="e#303#304#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="453" column="0" lean-forward="false" selection-start-line="453" selection-start-column="0" selection-end-line="453" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,21 +824,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chase_Financial/src/test/java/chaseTests/Chase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/Amazon_ECommerce.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,34 +839,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java">
+    <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="87" lean-forward="false" selection-start-line="20" selection-start-column="87" selection-end-line="20" selection-end-column="87" />
+        <state relative-caret-position="300">
+          <caret line="22" column="97" lean-forward="false" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthCare_HealthCare/src/test/java/unitedHealthCareTests/UnitedHealthCare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="115" lean-forward="false" selection-start-line="18" selection-start-column="115" selection-end-line="18" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy_Retail/src/test/java/bestbuyTests/BestBuy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chase_Financial/src/test/java/chaseTests/Chase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIFirefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/commonAPI/CommonAPIChrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="150">
+          <caret line="14" column="128" lean-forward="false" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon_ECommerce/src/test/java/amazonTests/Amazon.java">
+    <entry file="file://$PROJECT_DIR$/Facebook_SocialMedia/src/test/java/facebookTests/Facebook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="91" column="4" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="4" />
+        <state relative-caret-position="433">
+          <caret line="60" column="76" lean-forward="false" selection-start-line="60" selection-start-column="76" selection-end-line="60" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1269#1270#0" expanded="true" />
           </folding>
         </state>
       </provider>

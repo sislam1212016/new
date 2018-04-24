@@ -20,9 +20,9 @@ public class Amazon extends CommonAPIChrome {
     public void amazonLogin(){
         chromeDriver.get(url);
         chromeDriver.findElement(By.xpath("//div[@id='nav-tools']//a[@class='nav-a nav-a-2']")).click();
-        chromeDriver.findElement(By.xpath("//input[@id='ap_email']")).sendKeys("test@email.com");
+        chromeDriver.findElement(By.xpath("//input[@id='ap_email']")).sendKeys("team6.selenium");
         chromeDriver.findElement(By.xpath("//div[@class='a-section']//input[@id='continue']")).click();
-        chromeDriver.findElement(By.xpath("//input[@id='ap_password']")).sendKeys("abcd1234");
+        chromeDriver.findElement(By.xpath("//input[@id='ap_password']")).sendKeys("team612345");
         chromeDriver.findElement(By.xpath("//input[@id='signInSubmit']")).click();
     }
 

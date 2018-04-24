@@ -12,7 +12,7 @@ public class CommonAPIChrome {
 
     @BeforeMethod
     public void before(){
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\moham\\IdeaProjects\\AutomationTeam6\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "/Users/shafiq/IdeaProjects/AutomationTeam6/driver/driver_Mac/chromedriver");
         chromeDriver = new ChromeDriver();
     }
 }
