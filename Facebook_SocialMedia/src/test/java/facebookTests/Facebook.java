@@ -1,11 +1,14 @@
 package facebookTests;
 
 import commonAPI.CommonAPIChrome;
+import facebookMain.FacebookMain;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
 
-public class Facebook extends CommonAPIChrome{
+import javax.swing.*;
+
+public class Facebook extends FacebookMain{
 
     String url = "https://www.facebook.com";
 
@@ -21,7 +24,14 @@ public class Facebook extends CommonAPIChrome{
         chromeDriver.findElement(By.xpath("//input[@type='password']")).sendKeys("team612345");
         chromeDriver.findElement(By.xpath("//input[@value='Log In']")).click();
 
+
     }
+
+    @Test
+    public void postTest(){
+        postFacebook();
+    }
+
 
     @Test
     public void createFacebookAccount(){
@@ -34,7 +44,7 @@ public class Facebook extends CommonAPIChrome{
     }
     @Test
     public void findGroups(){
-        chromeDriver.get(url);
+        facebookLogin();
         chromeDriver.findElement(By.xpath("//div[@dir='ltr']")).click();
     }
 
@@ -60,6 +70,4 @@ public class Facebook extends CommonAPIChrome{
         chromeDriver.findElement(By.xpath("//div[@id='userNavigationLabel']")).click();
         chromeDriver.findElement(By.partialLinkText("menu_logout")).click();
     }
-
-
 }
